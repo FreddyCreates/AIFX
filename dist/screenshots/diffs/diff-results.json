@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-16T09:29:29.986Z",
+  "timestamp": "2026-06-17T09:04:55.986Z",
   "total": 300,
   "changed": 8,
   "new": 0,
@@ -8,23 +8,23 @@
     {
       "file": "download-desktop.png",
       "status": "changed",
-      "message": "Size delta: -1363 bytes",
+      "message": "Size delta: -1590 bytes",
       "baselineSize": 953005,
-      "currentSize": 951642
+      "currentSize": 951415
     },
     {
       "file": "download-mobile.png",
       "status": "changed",
-      "message": "Size delta: +2315 bytes",
+      "message": "Size delta: +2302 bytes",
       "baselineSize": 864630,
-      "currentSize": 866945
+      "currentSize": 866932
     },
     {
       "file": "download-tablet.png",
       "status": "changed",
-      "message": "Size delta: +4310 bytes",
+      "message": "Size delta: +4068 bytes",
       "baselineSize": 1282965,
-      "currentSize": 1287275
+      "currentSize": 1287033
     },
     {
       "file": "download.png",
@@ -470,15 +470,15 @@
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-mobile.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: -3 bytes",
+      "baselineSize": 30176,
+      "currentSize": 30173
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-tablet.png",
-      "status": "changed",
-      "message": "Size delta: -3 bytes",
-      "baselineSize": 39996,
-      "currentSize": 39993
+      "status": "unchanged",
+      "message": "Pixel-perfect match"
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel.png",
@@ -1498,23 +1498,23 @@
     {
       "file": "index-desktop.png",
       "status": "changed",
-      "message": "Size delta: -3012405 bytes",
+      "message": "Size delta: -3003006 bytes",
       "baselineSize": 4557655,
-      "currentSize": 1545250
+      "currentSize": 1554649
     },
     {
       "file": "index-mobile.png",
       "status": "changed",
-      "message": "Size delta: -1979432 bytes",
+      "message": "Size delta: -1979558 bytes",
       "baselineSize": 2714417,
-      "currentSize": 734985
+      "currentSize": 734859
     },
     {
       "file": "index-tablet.png",
       "status": "changed",
-      "message": "Size delta: -2676170 bytes",
+      "message": "Size delta: -2684051 bytes",
       "baselineSize": 3662985,
-      "currentSize": 986815
+      "currentSize": 978934
     },
     {
       "file": "index.png",
