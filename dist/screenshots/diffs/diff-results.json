@@ -1,30 +1,30 @@
 {
-  "timestamp": "2026-06-25T07:44:31.477Z",
+  "timestamp": "2026-06-26T07:56:01.104Z",
   "total": 300,
-  "changed": 8,
+  "changed": 7,
   "new": 0,
   "missing": 0,
   "details": [
     {
       "file": "download-desktop.png",
       "status": "changed",
-      "message": "Size delta: -1381 bytes",
+      "message": "Size delta: -1433 bytes",
       "baselineSize": 953005,
-      "currentSize": 951624
+      "currentSize": 951572
     },
     {
       "file": "download-mobile.png",
       "status": "changed",
-      "message": "Size delta: +2271 bytes",
+      "message": "Size delta: +2316 bytes",
       "baselineSize": 864630,
-      "currentSize": 866901
+      "currentSize": 866946
     },
     {
       "file": "download-tablet.png",
       "status": "changed",
-      "message": "Size delta: +4049 bytes",
+      "message": "Size delta: +4099 bytes",
       "baselineSize": 1282965,
-      "currentSize": 1287014
+      "currentSize": 1287064
     },
     {
       "file": "download.png",
@@ -470,10 +470,8 @@
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-mobile.png",
-      "status": "changed",
-      "message": "Size delta: -3 bytes",
-      "baselineSize": 30176,
-      "currentSize": 30173
+      "status": "unchanged",
+      "message": "Pixel-perfect match"
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-tablet.png",
@@ -1498,23 +1496,23 @@
     {
       "file": "index-desktop.png",
       "status": "changed",
-      "message": "Size delta: -3043438 bytes",
+      "message": "Size delta: -3008425 bytes",
       "baselineSize": 4557655,
-      "currentSize": 1514217
+      "currentSize": 1549230
     },
     {
       "file": "index-mobile.png",
       "status": "changed",
-      "message": "Size delta: -1977819 bytes",
+      "message": "Size delta: -1976897 bytes",
       "baselineSize": 2714417,
-      "currentSize": 736598
+      "currentSize": 737520
     },
     {
       "file": "index-tablet.png",
       "status": "changed",
-      "message": "Size delta: -2660993 bytes",
+      "message": "Size delta: -2668015 bytes",
       "baselineSize": 3662985,
-      "currentSize": 1001992
+      "currentSize": 994970
     },
     {
       "file": "index.png",
