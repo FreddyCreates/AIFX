@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T07:40:50.475Z",
+  "timestamp": "2026-07-08T06:30:10.954Z",
   "total": 300,
   "changed": 7,
   "new": 0,
@@ -8,23 +8,23 @@
     {
       "file": "download-desktop.png",
       "status": "changed",
-      "message": "Size delta: -1313 bytes",
+      "message": "Size delta: -966 bytes",
       "baselineSize": 953005,
-      "currentSize": 951692
+      "currentSize": 952039
     },
     {
       "file": "download-mobile.png",
       "status": "changed",
-      "message": "Size delta: +2291 bytes",
+      "message": "Size delta: +2444 bytes",
       "baselineSize": 864630,
-      "currentSize": 866921
+      "currentSize": 867074
     },
     {
       "file": "download-tablet.png",
       "status": "changed",
-      "message": "Size delta: +4343 bytes",
+      "message": "Size delta: +4288 bytes",
       "baselineSize": 1282965,
-      "currentSize": 1287308
+      "currentSize": 1287253
     },
     {
       "file": "download.png",
@@ -463,8 +463,10 @@
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-desktop.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: 0 bytes",
+      "baselineSize": 51458,
+      "currentSize": 51458
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-mobile.png",
@@ -473,10 +475,8 @@
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-tablet.png",
-      "status": "changed",
-      "message": "Size delta: -3 bytes",
-      "baselineSize": 39996,
-      "currentSize": 39993
+      "status": "unchanged",
+      "message": "Pixel-perfect match"
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel.png",
@@ -1496,9 +1496,9 @@
     {
       "file": "index-desktop.png",
       "status": "changed",
-      "message": "Size delta: -3044971 bytes",
+      "message": "Size delta: -3043438 bytes",
       "baselineSize": 4557655,
-      "currentSize": 1512684
+      "currentSize": 1514217
     },
     {
       "file": "index-mobile.png",
