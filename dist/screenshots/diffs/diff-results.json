@@ -1,30 +1,30 @@
 {
-  "timestamp": "2026-07-10T07:37:52.900Z",
+  "timestamp": "2026-07-11T06:14:58.415Z",
   "total": 300,
-  "changed": 6,
+  "changed": 7,
   "new": 0,
   "missing": 0,
   "details": [
     {
       "file": "download-desktop.png",
       "status": "changed",
-      "message": "Size delta: -1020 bytes",
+      "message": "Size delta: -2469 bytes",
       "baselineSize": 953005,
-      "currentSize": 951985
+      "currentSize": 950536
     },
     {
       "file": "download-mobile.png",
       "status": "changed",
-      "message": "Size delta: +2304 bytes",
+      "message": "Size delta: +2335 bytes",
       "baselineSize": 864630,
-      "currentSize": 866934
+      "currentSize": 866965
     },
     {
       "file": "download-tablet.png",
       "status": "changed",
-      "message": "Size delta: +4257 bytes",
+      "message": "Size delta: +4260 bytes",
       "baselineSize": 1282965,
-      "currentSize": 1287222
+      "currentSize": 1287225
     },
     {
       "file": "download.png",
@@ -1168,8 +1168,10 @@
     },
     {
       "file": "ext-signal-relay-adapter-sidepanel-tablet.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: -12 bytes",
+      "baselineSize": 54073,
+      "currentSize": 54061
     },
     {
       "file": "ext-social-cortex-popup-desktop.png",
@@ -1501,16 +1503,16 @@
     {
       "file": "index-mobile.png",
       "status": "changed",
-      "message": "Size delta: -1974950 bytes",
+      "message": "Size delta: -1979432 bytes",
       "baselineSize": 2714417,
-      "currentSize": 739467
+      "currentSize": 734985
     },
     {
       "file": "index-tablet.png",
       "status": "changed",
-      "message": "Size delta: -2660993 bytes",
+      "message": "Size delta: -2664104 bytes",
       "baselineSize": 3662985,
-      "currentSize": 1001992
+      "currentSize": 998881
     },
     {
       "file": "index.png",
