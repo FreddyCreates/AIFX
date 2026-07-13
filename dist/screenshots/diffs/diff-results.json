@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T06:34:35.817Z",
+  "timestamp": "2026-07-13T06:54:39.916Z",
   "total": 300,
   "changed": 7,
   "new": 0,
@@ -8,23 +8,23 @@
     {
       "file": "download-desktop.png",
       "status": "changed",
-      "message": "Size delta: -1313 bytes",
+      "message": "Size delta: -1375 bytes",
       "baselineSize": 953005,
-      "currentSize": 951692
+      "currentSize": 951630
     },
     {
       "file": "download-mobile.png",
       "status": "changed",
-      "message": "Size delta: +2316 bytes",
+      "message": "Size delta: +2323 bytes",
       "baselineSize": 864630,
-      "currentSize": 866946
+      "currentSize": 866953
     },
     {
       "file": "download-tablet.png",
       "status": "changed",
-      "message": "Size delta: +4348 bytes",
+      "message": "Size delta: +4285 bytes",
       "baselineSize": 1282965,
-      "currentSize": 1287313
+      "currentSize": 1287250
     },
     {
       "file": "download.png",
@@ -1503,16 +1503,16 @@
     {
       "file": "index-mobile.png",
       "status": "changed",
-      "message": "Size delta: -1972355 bytes",
+      "message": "Size delta: -1974950 bytes",
       "baselineSize": 2714417,
-      "currentSize": 742062
+      "currentSize": 739467
     },
     {
       "file": "index-tablet.png",
       "status": "changed",
-      "message": "Size delta: -2664104 bytes",
+      "message": "Size delta: -2662235 bytes",
       "baselineSize": 3662985,
-      "currentSize": 998881
+      "currentSize": 1000750
     },
     {
       "file": "index.png",
