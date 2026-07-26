@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T06:19:40.817Z",
+  "timestamp": "2026-07-26T06:38:25.843Z",
   "total": 300,
   "changed": 13,
   "new": 0,
@@ -8,23 +8,23 @@
     {
       "file": "download-desktop.png",
       "status": "changed",
-      "message": "Size delta: -1387 bytes",
+      "message": "Size delta: -1263 bytes",
       "baselineSize": 953005,
-      "currentSize": 951618
+      "currentSize": 951742
     },
     {
       "file": "download-mobile.png",
       "status": "changed",
-      "message": "Size delta: +2326 bytes",
+      "message": "Size delta: +2153 bytes",
       "baselineSize": 864630,
-      "currentSize": 866956
+      "currentSize": 866783
     },
     {
       "file": "download-tablet.png",
       "status": "changed",
-      "message": "Size delta: +4029 bytes",
+      "message": "Size delta: +4040 bytes",
       "baselineSize": 1282965,
-      "currentSize": 1286994
+      "currentSize": 1287005
     },
     {
       "file": "download.png",
@@ -471,16 +471,16 @@
     {
       "file": "ext-edge-prompt-lab-sidepanel-mobile.png",
       "status": "changed",
-      "message": "Size delta: -6 bytes",
+      "message": "Size delta: -8 bytes",
       "baselineSize": 30176,
-      "currentSize": 30170
+      "currentSize": 30168
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-tablet.png",
       "status": "changed",
-      "message": "Size delta: -5 bytes",
+      "message": "Size delta: -8 bytes",
       "baselineSize": 39996,
-      "currentSize": 39991
+      "currentSize": 39988
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel.png",
@@ -1168,8 +1168,10 @@
     },
     {
       "file": "ext-signal-relay-adapter-sidepanel-desktop.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: -3 bytes",
+      "baselineSize": 81335,
+      "currentSize": 81332
     },
     {
       "file": "ext-signal-relay-adapter-sidepanel-mobile.png",
@@ -1180,10 +1182,8 @@
     },
     {
       "file": "ext-signal-relay-adapter-sidepanel-tablet.png",
-      "status": "changed",
-      "message": "Size delta: -12 bytes",
-      "baselineSize": 54073,
-      "currentSize": 54061
+      "status": "unchanged",
+      "message": "Pixel-perfect match"
     },
     {
       "file": "ext-social-cortex-popup-desktop.png",
