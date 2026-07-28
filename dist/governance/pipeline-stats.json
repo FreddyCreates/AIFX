@@ -1,54 +1,54 @@
 {
-  "cycles": 3460,
+  "cycles": 3466,
   "pipelines": {
     "pipeline://governance/agent_cycle": {
-      "runs": 577,
-      "success": 577,
+      "runs": 578,
+      "success": 578,
       "errors": 0,
       "escalations": 0,
       "avg_steps": 0,
       "domain": "agent"
     },
     "pipeline://governance/topology_cycle": {
-      "runs": 577,
-      "success": 577,
+      "runs": 578,
+      "success": 578,
       "errors": 0,
       "escalations": 0,
       "avg_steps": 0,
       "domain": "topology"
     },
     "pipeline://governance/bot_cycle": {
-      "runs": 577,
-      "success": 577,
+      "runs": 578,
+      "success": 578,
       "errors": 0,
       "escalations": 0,
       "avg_steps": 0,
       "domain": "bot"
     },
     "pipeline://governance/economy_cycle": {
-      "runs": 577,
-      "success": 577,
+      "runs": 578,
+      "success": 578,
       "errors": 0,
       "escalations": 0,
       "avg_steps": 0,
       "domain": "economy"
     },
     "pipeline://governance/learning_cycle": {
-      "runs": 577,
-      "success": 577,
+      "runs": 578,
+      "success": 578,
       "errors": 0,
       "escalations": 0,
       "avg_steps": 0,
       "domain": "learning"
     },
     "pipeline://governance/default_cycle": {
-      "runs": 575,
-      "success": 575,
+      "runs": 576,
+      "success": 576,
       "errors": 0,
       "escalations": 0,
       "avg_steps": 0,
       "domain": "default"
     }
   },
-  "updated_at": "2026-07-28T16:28:30.831Z"
+  "updated_at": "2026-07-28T19:09:26.289Z"
 }
