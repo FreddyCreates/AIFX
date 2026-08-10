@@ -1,30 +1,30 @@
 {
-  "timestamp": "2026-08-10T04:15:15.606Z",
+  "timestamp": "2026-08-10T05:28:43.744Z",
   "total": 300,
-  "changed": 10,
+  "changed": 14,
   "new": 0,
   "missing": 0,
   "details": [
     {
       "file": "download-desktop.png",
       "status": "changed",
-      "message": "Size delta: -1336 bytes",
+      "message": "Size delta: -1380 bytes",
       "baselineSize": 953005,
-      "currentSize": 951669
+      "currentSize": 951625
     },
     {
       "file": "download-mobile.png",
       "status": "changed",
-      "message": "Size delta: +2343 bytes",
+      "message": "Size delta: +2332 bytes",
       "baselineSize": 864630,
-      "currentSize": 866973
+      "currentSize": 866962
     },
     {
       "file": "download-tablet.png",
       "status": "changed",
-      "message": "Size delta: +4068 bytes",
+      "message": "Size delta: +3981 bytes",
       "baselineSize": 1282965,
-      "currentSize": 1287033
+      "currentSize": 1286946
     },
     {
       "file": "download.png",
@@ -471,9 +471,9 @@
     {
       "file": "ext-edge-prompt-lab-sidepanel-mobile.png",
       "status": "changed",
-      "message": "Size delta: -6 bytes",
+      "message": "Size delta: -8 bytes",
       "baselineSize": 30176,
-      "currentSize": 30170
+      "currentSize": 30168
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-tablet.png",
@@ -1149,8 +1149,10 @@
     },
     {
       "file": "ext-signal-relay-adapter-popup-desktop.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +12 bytes",
+      "baselineSize": 38306,
+      "currentSize": 38318
     },
     {
       "file": "ext-signal-relay-adapter-popup-mobile.png",
@@ -1159,18 +1161,24 @@
     },
     {
       "file": "ext-signal-relay-adapter-popup-tablet.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +9 bytes",
+      "baselineSize": 34230,
+      "currentSize": 34239
     },
     {
       "file": "ext-signal-relay-adapter-sidepanel-desktop.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: -3 bytes",
+      "baselineSize": 81335,
+      "currentSize": 81332
     },
     {
       "file": "ext-signal-relay-adapter-sidepanel-mobile.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: -8 bytes",
+      "baselineSize": 38749,
+      "currentSize": 38741
     },
     {
       "file": "ext-signal-relay-adapter-sidepanel-tablet.png",
@@ -1502,23 +1510,23 @@
     {
       "file": "index-desktop.png",
       "status": "changed",
-      "message": "Size delta: -3044665 bytes",
+      "message": "Size delta: -3049239 bytes",
       "baselineSize": 4557655,
-      "currentSize": 1512990
+      "currentSize": 1508416
     },
     {
       "file": "index-mobile.png",
       "status": "changed",
-      "message": "Size delta: -1977819 bytes",
+      "message": "Size delta: -1972355 bytes",
       "baselineSize": 2714417,
-      "currentSize": 736598
+      "currentSize": 742062
     },
     {
       "file": "index-tablet.png",
       "status": "changed",
-      "message": "Size delta: -2664104 bytes",
+      "message": "Size delta: -2662235 bytes",
       "baselineSize": 3662985,
-      "currentSize": 998881
+      "currentSize": 1000750
     },
     {
       "file": "index.png",
