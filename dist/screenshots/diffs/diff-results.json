@@ -1,30 +1,30 @@
 {
-  "timestamp": "2026-09-04T08:38:06.208Z",
+  "timestamp": "2026-09-05T08:08:37.691Z",
   "total": 300,
-  "changed": 12,
+  "changed": 22,
   "new": 0,
   "missing": 0,
   "details": [
     {
       "file": "download-desktop.png",
       "status": "changed",
-      "message": "Size delta: -1564 bytes",
+      "message": "Size delta: -1428 bytes",
       "baselineSize": 953005,
-      "currentSize": 951441
+      "currentSize": 951577
     },
     {
       "file": "download-mobile.png",
       "status": "changed",
-      "message": "Size delta: +2302 bytes",
+      "message": "Size delta: +2374 bytes",
       "baselineSize": 864630,
-      "currentSize": 866932
+      "currentSize": 867004
     },
     {
       "file": "download-tablet.png",
       "status": "changed",
-      "message": "Size delta: +3975 bytes",
+      "message": "Size delta: +3657 bytes",
       "baselineSize": 1282965,
-      "currentSize": 1286940
+      "currentSize": 1286622
     },
     {
       "file": "download.png",
@@ -48,18 +48,24 @@
     },
     {
       "file": "ext-alpha-tools-hub-sidepanel-desktop.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +11 bytes",
+      "baselineSize": 44288,
+      "currentSize": 44299
     },
     {
       "file": "ext-alpha-tools-hub-sidepanel-mobile.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +20 bytes",
+      "baselineSize": 36910,
+      "currentSize": 36930
     },
     {
       "file": "ext-alpha-tools-hub-sidepanel-tablet.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +14 bytes",
+      "baselineSize": 40017,
+      "currentSize": 40031
     },
     {
       "file": "ext-api-mesh-adapter-popup-desktop.png",
@@ -383,18 +389,24 @@
     },
     {
       "file": "ext-edge-ai-assistant-sidepanel-desktop.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +10 bytes",
+      "baselineSize": 63628,
+      "currentSize": 63638
     },
     {
       "file": "ext-edge-ai-assistant-sidepanel-mobile.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +15 bytes",
+      "baselineSize": 31387,
+      "currentSize": 31402
     },
     {
       "file": "ext-edge-ai-assistant-sidepanel-tablet.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +10 bytes",
+      "baselineSize": 45952,
+      "currentSize": 45962
     },
     {
       "file": "ext-edge-ai-assistant-sidepanel.png",
@@ -464,23 +476,23 @@
     {
       "file": "ext-edge-prompt-lab-sidepanel-desktop.png",
       "status": "changed",
-      "message": "Size delta: -5 bytes",
+      "message": "Size delta: +3 bytes",
       "baselineSize": 51458,
-      "currentSize": 51453
+      "currentSize": 51461
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-mobile.png",
       "status": "changed",
-      "message": "Size delta: -6 bytes",
+      "message": "Size delta: +6 bytes",
       "baselineSize": 30176,
-      "currentSize": 30170
+      "currentSize": 30182
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel-tablet.png",
       "status": "changed",
-      "message": "Size delta: -8 bytes",
+      "message": "Size delta: +6 bytes",
       "baselineSize": 39996,
-      "currentSize": 39988
+      "currentSize": 40002
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel.png",
@@ -814,18 +826,24 @@
     },
     {
       "file": "ext-model-router-adapter-sidepanel-desktop.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +10 bytes",
+      "baselineSize": 82640,
+      "currentSize": 82650
     },
     {
       "file": "ext-model-router-adapter-sidepanel-mobile.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +11 bytes",
+      "baselineSize": 37576,
+      "currentSize": 37587
     },
     {
       "file": "ext-model-router-adapter-sidepanel-tablet.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +7 bytes",
+      "baselineSize": 53044,
+      "currentSize": 53051
     },
     {
       "file": "ext-organism-dashboard-popup-desktop.png",
@@ -1149,8 +1167,10 @@
     },
     {
       "file": "ext-signal-relay-adapter-popup-desktop.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +12 bytes",
+      "baselineSize": 38306,
+      "currentSize": 38318
     },
     {
       "file": "ext-signal-relay-adapter-popup-mobile.png",
@@ -1159,15 +1179,15 @@
     },
     {
       "file": "ext-signal-relay-adapter-popup-tablet.png",
-      "status": "unchanged",
-      "message": "Pixel-perfect match"
+      "status": "changed",
+      "message": "Size delta: +9 bytes",
+      "baselineSize": 34230,
+      "currentSize": 34239
     },
     {
       "file": "ext-signal-relay-adapter-sidepanel-desktop.png",
-      "status": "changed",
-      "message": "Size delta: -3 bytes",
-      "baselineSize": 81335,
-      "currentSize": 81332
+      "status": "unchanged",
+      "message": "Pixel-perfect match"
     },
     {
       "file": "ext-signal-relay-adapter-sidepanel-mobile.png",
@@ -1506,23 +1526,23 @@
     {
       "file": "index-desktop.png",
       "status": "changed",
-      "message": "Size delta: -3043438 bytes",
+      "message": "Size delta: -3012405 bytes",
       "baselineSize": 4557655,
-      "currentSize": 1514217
+      "currentSize": 1545250
     },
     {
       "file": "index-mobile.png",
       "status": "changed",
-      "message": "Size delta: -1974950 bytes",
+      "message": "Size delta: -1981370 bytes",
       "baselineSize": 2714417,
-      "currentSize": 739467
+      "currentSize": 733047
     },
     {
       "file": "index-tablet.png",
       "status": "changed",
-      "message": "Size delta: -2664104 bytes",
+      "message": "Size delta: -2681911 bytes",
       "baselineSize": 3662985,
-      "currentSize": 998881
+      "currentSize": 981074
     },
     {
       "file": "index.png",
