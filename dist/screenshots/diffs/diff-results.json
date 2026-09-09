@@ -1,30 +1,30 @@
 {
-  "timestamp": "2026-09-08T08:41:08.626Z",
+  "timestamp": "2026-09-09T04:16:27.468Z",
   "total": 300,
-  "changed": 23,
+  "changed": 22,
   "new": 0,
   "missing": 0,
   "details": [
     {
       "file": "download-desktop.png",
       "status": "changed",
-      "message": "Size delta: -1356 bytes",
+      "message": "Size delta: -1660 bytes",
       "baselineSize": 953005,
-      "currentSize": 951649
+      "currentSize": 951345
     },
     {
       "file": "download-mobile.png",
       "status": "changed",
-      "message": "Size delta: +2188 bytes",
+      "message": "Size delta: +2323 bytes",
       "baselineSize": 864630,
-      "currentSize": 866818
+      "currentSize": 866953
     },
     {
       "file": "download-tablet.png",
       "status": "changed",
-      "message": "Size delta: +4063 bytes",
+      "message": "Size delta: +4089 bytes",
       "baselineSize": 1282965,
-      "currentSize": 1287028
+      "currentSize": 1287054
     },
     {
       "file": "download.png",
@@ -490,9 +490,9 @@
     {
       "file": "ext-edge-prompt-lab-sidepanel-tablet.png",
       "status": "changed",
-      "message": "Size delta: +6 bytes",
+      "message": "Size delta: +4 bytes",
       "baselineSize": 39996,
-      "currentSize": 40002
+      "currentSize": 40000
     },
     {
       "file": "ext-edge-prompt-lab-sidepanel.png",
@@ -1167,10 +1167,8 @@
     },
     {
       "file": "ext-signal-relay-adapter-popup-desktop.png",
-      "status": "changed",
-      "message": "Size delta: +12 bytes",
-      "baselineSize": 38306,
-      "currentSize": 38318
+      "status": "unchanged",
+      "message": "Pixel-perfect match"
     },
     {
       "file": "ext-signal-relay-adapter-popup-mobile.png",
@@ -1528,23 +1526,23 @@
     {
       "file": "index-desktop.png",
       "status": "changed",
-      "message": "Size delta: -3045115 bytes",
+      "message": "Size delta: -3047046 bytes",
       "baselineSize": 4557655,
-      "currentSize": 1512540
+      "currentSize": 1510609
     },
     {
       "file": "index-mobile.png",
       "status": "changed",
-      "message": "Size delta: -1970522 bytes",
+      "message": "Size delta: -1976543 bytes",
       "baselineSize": 2714417,
-      "currentSize": 743895
+      "currentSize": 737874
     },
     {
       "file": "index-tablet.png",
       "status": "changed",
-      "message": "Size delta: -2667728 bytes",
+      "message": "Size delta: -2660993 bytes",
       "baselineSize": 3662985,
-      "currentSize": 995257
+      "currentSize": 1001992
     },
     {
       "file": "index.png",
